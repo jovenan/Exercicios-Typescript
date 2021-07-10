@@ -1,0 +1,18 @@
+- Typescript é um JS tipado.
+
+- Para usar o Typescript, basta rodar o codigo: "npm install typescript".
+- Apos instalar, basta rodar "tsc" para ver o que pode ser feito no typescript.
+
+- Rodo o "tsc --init" para que ele crie o arquivo de configuração, 
+do Typescript para o meu projeto.
+
+- Apos eu ter feito as alterações necessarias, eu rodo "tsc" no terminal, 
+e ele vai gerar(compilar) o codigo TS em um JS que o navegador consiga utilizar.
+
+- Ele vai compilar um arquivo compativel com o ES5(Versão do target no tsconfig.json),
+Assim ele vai gerar um arquivo compativel com a maioria dos navegadores que não suportam o ES6.
+
+- Posso utilizar um site que se chama:
+https://www.typescriptlang.org/play
+
+Nele eu posso escrever codigos em TS e eles são convertidos para JS.
